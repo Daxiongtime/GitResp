@@ -5,4 +5,5 @@ package com.dx;
  */
 public class Person {
     private int age;
+    private String sex;
 }
